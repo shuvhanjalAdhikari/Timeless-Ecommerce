@@ -1,0 +1,163 @@
+<div class="bg-white py-6 -mt-10 ">
+    <div class="max-w-6xl mx-auto text-center">
+        <!-- Title -->
+        <h2 class="text-3xl font-bold mb-4">What People Say</h2>
+        <p class="text-gray-500 mb-16">Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+
+    <!-- Testimonial Slider Container -->
+    <div id="testimonialSliderContainer" class="relative overflow-hidden">
+        <div id="testimonialSlider" class="flex transition-transform duration-500">
+            <!-- Slide 1 -->
+            <div class="flex-none w-full sm:w-1/3 px-4">
+                <!-- Testimonial 1 -->
+                <div class="flex flex-col items-center">
+                    <div class="relative bg-white text-left p-8 shadow-lg rounded-lg">
+                        <div class="text-6xl text-gray-200 absolute top-0 left-0 -ml-2 -mt-2">“</div>
+                        <p class="text-gray-700">It was really fun getting to know the team during the project.
+                                                   They were all helpful in answering my questions and made me 
+                                                   feel completely at ease. The design ended up being twice as 
+                                                   good as I could have ever envisioned! 
+                        </p>
+                    </div>
+                    <div class="mt-6">
+                        <img class="w-16 h-16 rounded-full mx-auto" src="profile1.jpg" alt="Aura Brooks">
+                        <h3 class="mt-2 text-lg font-semibold">Aura Brooks</h3>
+                        <p class="text-blue-500"><a href="#">Graphic Designer, Owl Eyes</a></p>
+                    </div>
+                </div>
+            </div>
+            <!-- Slide 2 -->
+            <div class="flex-none w-full sm:w-1/3 px-4">
+                <!-- Testimonial 2 -->
+                <div class="flex flex-col items-center">
+                    <div class="relative bg-white text-left p-8 shadow-lg rounded-lg">
+                        <div class="text-6xl text-gray-200 absolute top-0 left-0 -ml-2 -mt-2">“</div>
+                        <p class="text-gray-700">It was really fun getting to know the team during the project.
+                                                   They were all helpful in answering my questions and made me
+                                                   feel completely at ease. The design ended up being twice as
+                                                   good as I could have ever envisioned!
+                        </p>
+                    </div>
+                    <div class="mt-6">
+                        <img class="w-16 h-16 rounded-full mx-auto" src="profile2.jpg" alt="Ali Tufan">
+                        <h3 class="mt-2 text-lg font-semibold">Ali Tufan</h3>
+                        <p class="text-blue-500"><a href="#">Client</a></p>
+                    </div>
+                </div>
+            </div>
+            <!-- Slide 3 -->
+            <div class="flex-none w-full sm:w-1/3 px-4">
+                <!-- Testimonial 3 -->
+                <div class="flex flex-col items-center">
+                    <div class="relative bg-white text-left p-8 shadow-lg rounded-lg">
+                        <div class="text-6xl text-gray-200 absolute top-0 left-0 -ml-2 -mt-2">“</div>
+                        <p class="text-gray-700">It was really fun getting to know the team during the project.
+                                                   They were all helpful in answering my questions and made me
+                                                   feel completely at ease. The design ended up being twice as
+                                                   good as I could have ever envisioned!
+                        </p>
+                    </div>
+                    <div class="mt-6">
+                        <img class="w-16 h-16 rounded-full mx-auto" src="profile3.jpg" alt="Jack Graham">
+                        <h3 class="mt-2 text-lg font-semibold">Jack Graham</h3>
+                        <p class="text-blue-500"><a href="#">Co-founder, Coffee Inc</a></p>
+                    </div>
+                </div>
+            </div>
+            <!-- Slide 4 -->
+            <div class="flex-none w-full sm:w-1/3 px-4">
+                <!-- Testimonial 4 -->
+                <div class="flex flex-col items-center">
+                    <div class="relative bg-white text-left p-8 shadow-lg rounded-lg">
+                        <div class="text-6xl text-gray-200 absolute top-0 left-0 -ml-2 -mt-2">“</div>
+                        <p class="text-gray-700"> It was really fun getting to know the team during the project.
+                                                    They were all helpful in answering my questions and made me
+                                                    feel completely at ease. The design ended up being twice as
+                                                    good as I could have ever envisioned!
+                        </p>
+                    </div>
+                    <div class="mt-6">
+                        <img class="w-16 h-16 rounded-full mx-auto" src="profile4.jpg" alt="Jane Doe">
+                        <h3 class="mt-2 text-lg font-semibold">Ali Tufan</h3>
+                        <p class="text-blue-500"><a href="#">Client</a></p>
+                    </div>
+                </div>
+            </div>
+            <!-- Slide 5 -->
+            <div class="flex-none w-full sm:w-1/3 px-4">
+                <!-- Testimonial 5 -->
+                <div class="flex flex-col items-center">
+                    <div class="relative bg-white text-left p-8 shadow-lg rounded-lg">
+                        <div class="text-6xl text-gray-200 absolute top-0 left-0 -ml-2 -mt-2">“</div>
+                        <p class="text-gray-700"> It was really fun getting to know the team during the project.
+                                                    They were all helpful in answering my questions and made me
+                                                    feel completely at ease. The design ended up being twice as
+                                                    good as I could have ever envisioned!
+                        </p>
+                    </div>
+                    <div class="mt-6">
+                        <img class="w-16 h-16 rounded-full mx-auto" src="profile5.jpg" alt="John Smith">
+                        <h3 class="mt-2 text-lg font-semibold">Jack Graham</h3>
+                        <p class="text-blue-500"><a href="#">Co founder, Coffee Inc</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Slider Controls -->
+            <!-- <div class="flex justify-center mt-8 space-x-2">
+                <button class="dot w-4 h-4 bg-gray-400 rounded-full focus:outline-none" onclick="currentSlide2(0)"></button>
+                <button class="dot w-4 h-4 bg-gray-400 rounded-full focus:outline-none" onclick="currentSlide2(1)"></button>
+                <button class="dot w-4 h-4 bg-gray-400 rounded-full focus:outline-none" onclick="currentSlide2(2)"></button>
+                <button class="dot w-4 h-4 bg-gray-400 rounded-full focus:outline-none" onclick="currentSlide2(3)"></button>
+                <button class="dot w-4 h-4 bg-gray-400 rounded-full focus:outline-none" onclick="currentSlide2(4)"></button> -->
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+javascript
+
+
+    // Slider 2 - Testimonial Slider
+    function initializeSlider2() {
+        let slideIndex2 = 0;
+        const slides2 = document.querySelector("#testimonialSlider");
+        const testimonialDots = document.querySelectorAll("#testimonialSliderContainer .dot");
+        
+        if (!slides2) {
+            console.error("Slider element not found!");
+            return;
+        }
+
+        function currentSlide2(n) {
+            slideIndex2 = n;
+            updateSlides2();
+        }
+
+        function updateSlides2() {
+            const slideWidth2 = slides2.children[0].clientWidth;
+            slides2.style.transform = `translateX(${-slideIndex2 * slideWidth2}px)`;
+
+            testimonialDots.forEach((dot, index) => {
+                dot.classList.toggle("bg-gray-800", index === slideIndex2);
+                dot.classList.toggle("bg-gray-400", index !== slideIndex2);
+            });
+        }
+
+        testimonialDots.forEach((dot, index) => {
+            dot.addEventListener("click", () => currentSlide2(index));
+        });
+
+        // Initialize slides and dots based on the initial index
+        updateSlides2();
+    }
+
+    // Initialize both sliders after the DOM has loaded
+    initializeSlider2();
+});
